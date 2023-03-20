@@ -1,4 +1,23 @@
-# Getting Started with Create React App
+
+```
+![image]()
+**Nome:** Jamison Queiroz - 202208101127@alunos.estacio.br
+**Curso:** Desenvolvimento Full Stack
+**Turma:** 2022.4
+**Disciplina:** Projeto Front-end Com Framework e Crud
+GitHub: https://github.com/jamison0902/histogram_wordcloud
+
+
+Grupos Missão Certificação Mundo 2
+Turma 2022.4
+DEV TEAM 01
+JAMISON DE SOUZA QUEIROZ 202208101127@alunos.estacio.br
+```
+
+# Introdução
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
