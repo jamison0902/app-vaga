@@ -1,20 +1,19 @@
 
-```
-![image]()
-**Nome:** Jamison Queiroz - 202208101127@alunos.estacio.br
-**Curso:** Desenvolvimento Full Stack
-**Turma:** 2022.4
-**Disciplina:** Projeto Front-end Com Framework e Crud
-GitHub: https://github.com/jamison0902/histogram_wordcloud
+
+![image](estacio.png)
+
+**Nome:** Jamison Queiroz - 202208101127@alunos.estacio.br\
+**Curso:** Desenvolvimento Full Stack\
+**Turma:** 2022.4\
+**Disciplina:** Projeto Front-end com Framework e Crud
 
 
-Grupos Missão Certificação Mundo 2
-Turma 2022.4
-DEV TEAM 01
-JAMISON DE SOUZA QUEIROZ 202208101127@alunos.estacio.br
-```
+# Missão Certificação Mundo 2
 
-# Introdução
+Aplicativo de cadastro de vagas e marcação de entrevista usando react, segue link para acessar o aplicativo em pleno online e uma tela da aplicação:
+
+- https://app-vaga.vercel.app/
+
 
 
 
