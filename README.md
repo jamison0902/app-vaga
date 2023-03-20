@@ -10,7 +10,7 @@
 
 # Missão Certificação Mundo 2
 
-Aplicativo de cadastro de vagas e marcação de entrevista usando react, segue link para acessar o aplicativo em pleno online e uma tela da aplicação:
+Aplicativo de cadastro de vagas e marcação de entrevista usando react, segue link para acessar o aplicativo online e uma tela da aplicação:
 
 - https://app-vaga.vercel.app/
 
